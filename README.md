@@ -32,38 +32,6 @@
   <li>Streamlit</li>
 </ul>
 
-<h2>📂 Project Structure</h2>
-<ul>
-  <li><code>app.py</code> → Streamlit app</li>
-  <li><code>chatbot.py</code> → Core chatbot logic (LangChain + FAISS)</li>
-  <li><code>requirements.txt</code> → Dependencies</li>
-  <li><code>data/</code> → (optional) saved FAISS index</li>
-</ul>
-
-<h2>⚙️ Installation</h2>
-<ol>
-  <li>Clone repo
-    <pre><code class="language-bash">git clone https://github.com/your-username/youtube-chatbot.git
-cd youtube-chatbot
-</code></pre>
-  </li>
-  <li>Create &amp; activate virtual environment
-    <pre><code class="language-bash">python -m venv venv
-# Linux/Mac
-source venv/bin/activate
-# Windows
-venv\Scripts\activate
-</code></pre>
-  </li>
-  <li>Install dependencies
-    <pre><code class="language-bash">pip install -r requirements.txt
-</code></pre>
-  </li>
-  <li>Add NVIDIA API key in <code>.env</code>
-    <pre><code class="language-ini">NVIDIA_API_KEY=your_api_key_here
-</code></pre>
-  </li>
-</ol>
 
 <h2>▶️ Usage</h2>
 <ul>
