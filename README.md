@@ -23,39 +23,6 @@ YouTube Transcript API
 Streamlit
  – Web app UI
 
-📂 Project Structure
-📦 youtube-chatbot
- ┣ 📜 app.py              # Streamlit app
- ┣ 📜 chatbot.py          # Core chatbot logic (LangChain + FAISS)
- ┣ 📜 requirements.txt    # Dependencies
- ┣ 📜 README.md           # Project documentation
- ┗ 📂 data/               # (Optional) Saved FAISS index
-
-⚙️ Installation
-Clone the repo
-git clone https://github.com/your-username/youtube-chatbot.git
-cd youtube-chatbot
-
-Create a virtual environment
-python -m venv venv
-source venv/bin/activate   # Linux/Mac
-venv\Scripts\activate      # Windows
-
-Install dependencies
-pip install -r requirements.txt
-
-Set environment variables
-Create a .env file and add your NVIDIA API key:
-NVIDIA_API_KEY=your_api_key_here
-
-▶️ Usage
-Run the Streamlit app:
-streamlit run app.py
-
-Enter a YouTube video URL
-Ask any question related to the video
-Get AI-powered answers with context from the transcript 🎯
-
 🚀 Future Improvements
 Add support for multiple videos
 Highlight timestamps in answers
