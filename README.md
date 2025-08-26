@@ -75,10 +75,6 @@ venv\Scripts\activate
   <li>Ask questions → get <strong>AI-powered answers</strong></li>
 </ul>
 
-<h2>📸 Demo</h2>
-<ul>
-  <li>Add screenshots or a GIF (e.g., <code>docs/demo.gif</code>)</li>
-</ul>
 
 <h2>🚀 Future Work</h2>
 <ul>
@@ -88,19 +84,6 @@ venv\Scripts\activate
   <li>Deploy to Streamlit Cloud / Hugging Face Spaces</li>
 </ul>
 
-<h2>🤝 Contributing</h2>
-<ol>
-  <li>Fork the repo</li>
-  <li>Create a feature branch</li>
-  <li>Open a pull request</li>
-</ol>
-
-<h2>📜 License</h2>
-<ul>
-  <li>MIT License © 2025 <em>Your Name</em></li>
-</ul>
-
-<hr>
 
 <!-- Optional collapsible: env & troubleshooting -->
 <details>
